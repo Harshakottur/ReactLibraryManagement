@@ -61,4 +61,10 @@ Brief description or introduction to your project
 
 
    The application should now be running locally on `http://localhost:3000`.
+### Login for user and admin
 
+  #### only add username for user privilage
+    username: user1
+  #### for admin privilage
+    username: admin1
+    password: admin1pass
