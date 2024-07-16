@@ -4,24 +4,11 @@
 Brief description or introduction to your project
 
 ### Features
- #### Login Authentication and Authorization:
-    Implement JWT token-based authentication.
-    Users can log in with credentials and receive a JWT token.
-    Differentiate between regular users and admin users based on roles.
- #### Books:
-    Create: Admin users can add new books to the library.
-    List: Display a list of all books in the library.
-    Edit: Admin users can update book details.
-    Delete: Admin users can remove books from the library.
- #### Users:
-    Add Users: Admin users can add new users.
-    List Users: Display a list of all users.
- #### Admin Users:
-    Add Admin Users: Super admin users can add new admin users.
-    List Admin Users: Display a list of all admin users.
- #### Transactions:
-    Add Transaction: Users can borrow or return books, which are recorded as transactions.
-    List Transaction History: Users can view their transaction history.
+- [ ] Authentication (JWT-based)
+- [ ] Form for CRUD Operations Books, Users, and Transactions
+- [ ] Role-based Access Control (Admin, User)
+- [ ] Logging and Error Handling
+- [ ] Login Page
     
 ### Technologies Used
   Node.js
